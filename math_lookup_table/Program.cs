@@ -24,7 +24,7 @@ namespace math_lookup_table
 		{
 			Application.EnableVisualStyles();
 			Application.SetCompatibleTextRenderingDefault(false);
-			Application.Run(new MainForm());
+			Application.Run(new Math_Lookup_Table());
 		}
 		
 	}

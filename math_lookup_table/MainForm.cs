@@ -1,11 +1,10 @@
 ﻿/*
  * Created by SharpDevelop.
- * User: Garfield
+ * User: StoneCat
  * Date: 16.09.2016
  * Time: 23:11
- * 
- * To change this template use Tools | Options | Coding | Edit Standard Headers.
  */
+ 
 using System;
 using System.Collections.Generic;
 using System.Drawing;
@@ -16,9 +15,9 @@ namespace math_lookup_table
 	/// <summary>
 	/// Description of MainForm.
 	/// </summary>
-	public partial class MainForm : Form
+	public partial class Math_Lookup_Table : Form
 	{
-		public MainForm()
+		public Math_Lookup_Table()
 		{
 			//
 			// The InitializeComponent() call is required for Windows Forms designer support.
